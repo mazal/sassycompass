@@ -6,7 +6,7 @@
     "grunt-contrib-watch": "~1.1.0",
     "grunt-contrib-compass": "~1.1.1",
     "grunt-contrib-uglify": "~5.2.2",
-    "matchdep": "~0.1.2"
+    "matchdep": "~2.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5"
